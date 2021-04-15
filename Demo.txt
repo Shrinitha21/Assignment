@@ -1,0 +1,9 @@
+hello
+how are you
+my name is shrinitha 
+hope you are doing good
+
+
+ANSWER4
+ java.util.StringTokenizer or java.io.StreamTokenizer can be used to parse the  input into words.
+  Each class has a default set of delimiters (like white space) that you can specify.Iam appending this line to end of the file.                     Iam appending this line to end of the file.
